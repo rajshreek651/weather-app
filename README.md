@@ -7,8 +7,8 @@ We can pick the components from the documentation of Material UI after installat
 
 # Building a Weather Widget
 It will contain:
-1. a search box ,
-2. a button of 'Search' ,
+1. a search box 
+2. a button of 'Search' 
 3. a Card displaying the Weather info of the searched place
 
 #### Core concepts used: API + Implementing functionality in Search box
