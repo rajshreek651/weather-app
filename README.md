@@ -15,4 +15,4 @@ It will contain:
 
 #### Components Hierarchy
 App.jsx --> WeatherApp.jsx --> (SearchBox + infoBox)
-
+_______________________________________________________________________________________________________
