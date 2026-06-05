@@ -13,5 +13,6 @@ It will contain:
 
 #### Core concepts used: API + Implementing functionality in Search box
 
-#### GETTING STARTED
+#### Components Hierarchy
+App.jsx --> WeatherApp.jsx --> (SearchBox + infoBox)
 
