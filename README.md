@@ -16,3 +16,5 @@ It will contain:
 #### Components Hierarchy
 App.jsx --> WeatherApp.jsx --> (SearchBox + infoBox)
 _______________________________________________________________________________________________________
+
+#### API key source: https://www.home.openweathermap.org/api_keys
